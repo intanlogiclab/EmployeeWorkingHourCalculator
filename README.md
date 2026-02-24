@@ -1,12 +1,12 @@
 
 ## Project Title
-Employee Working Hour Calculator
+Employee Working Hours Calculator
 
 
 ## Description
 This C++ program reads employee's name, arrival and departure
 times as inputs from the standard input device ( keyboard ), and 
-computes the total working hours spent on his/her job on a 
+computes the total working hours spent on his / her job on a 
 particular day.
 
  In the first part of the program, user will be asked to input the 
@@ -27,14 +27,14 @@ particular day.
        line 182 and line 183.
     4. The total times then will be displayed on the output screen.
 
-After the total time was displayed, the user will be asked if he /she
+After the total time was displayed, the user will be asked if he / she
 wished to run the program again or not. The program will run again
 if the input entered by the user is either a 'y' or 'Y'. Otherwise, a 
 message " Terminating the program..." will be displayed on the screen.
 
 
 ## Sample Output
-![Mini Election Winner Finder](SampleOutput2.png)
+![Employee Working Hours Calculator](SampleOutput2.png)
 
 
 ## Try it Online
