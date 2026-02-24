@@ -34,7 +34,7 @@ message " Terminating the program..." will be displayed on the screen.
 
 
 ## Sample Output
-![Mini Election Winner Finder](SampleOutput.png)
+![Mini Election Winner Finder](SampleOutput2.png)
 
 
 ## Try it Online
