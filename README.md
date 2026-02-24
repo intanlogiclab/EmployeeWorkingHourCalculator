@@ -38,7 +38,7 @@ message " Terminating the program..." will be displayed on the screen.
 
 
 ## Try it Online
-[Click here to run Mini Election Winner Finder]](https://onlinegdb.com/j2Qh-0C1B)
+[Click here to run Employee Working Hours Calculator]](https://onlinegdb.com/j2Qh-0C1B)
 
 
 ## Reference
