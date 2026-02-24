@@ -28,7 +28,7 @@ particular day.
     4. The total times then will be displayed on the output screen.
 
 After the total time was displayed, the user will be asked if he /she
-wished to run the program or the otherwise. The program will run again
+wished to run the program again or not. The program will run again
 if the input entered by the user is either a 'y' or 'Y'. Otherwise, a 
 message " Terminating the program..." will be displayed on the screen.
 
